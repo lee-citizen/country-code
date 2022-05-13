@@ -1,6 +1,6 @@
 # country-code
 
-国际国家中英文名称及简码code对应表 JSON 格式
+国家中英文名称及简码code对应表 JSON
 
 ```
 {
